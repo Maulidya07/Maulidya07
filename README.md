@@ -1,6 +1,6 @@
 # Hi, I'm Maulidya Syifa Aszahra! 👋
 
-A 4th-semester Computer Science student at STT Nurul Fikri, specializing as a **Hybrid Developer** with a strong focus on **Full-Stack Web Development** and **Data Science & AI**. 
+A 4th-semester Computer Science student at STT Terpadu Nurul Fikri, specializing as a **Hybrid Developer** with a strong focus on **Full-Stack Web Development** and **Data Science & AI**. 
 
 ---
 
